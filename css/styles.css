@@ -1,0 +1,19 @@
+#equilateral, #isosceles, #scalene, #not-triangle {
+  display: none;
+}
+
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+}
+
+#equilateral, #isosceles, #scalene, #not-triangle {
+  color: purple;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+body {
+  background-color: pink;
+}
